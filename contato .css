@@ -1,0 +1,17 @@
+header{
+    background-color: blue;
+    padding: 20px;
+}
+#logo{
+    border-radius: 10px;
+}
+
+.titulo-principal{
+    color:blue;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform:translate(-30%,-15%)
+    font-size: 20px;
+    font-family:'gagalin', sem serifa;
+}
