@@ -66,7 +66,7 @@ legend{
 
 }
 
-#enviar{
+.enviar{
     background-image: linear-gradient(to right, rgb(0, 92, 192), rgb(90, 20, 220));
     width: 100%;
     border: none;
@@ -77,6 +77,23 @@ legend{
     border-radius: 10px;
 }
 
-#enviar:hover{
-    background-image: linear-gradient(to right, rgb(0, 92, 192), rgb(90, 20, 195))
+.enviar:hover{
+    background-image: linear-gradient(to right, rgb(0, 92, 192), rgb(90, 20, 195));
+    transform: scale(1.2)
+}
+.copyright{
+    color:rgb(17, 54, 71);
+    font-size: 13px;
+    margin: 10px 0 0;
+}
+footer{
+    text-align: center;
+    background-image: url ("br.jpn")
+    padding: 10px 0;
+}
+input:placeholder{
+    color:blue;
+}
+.nav{
+    color:aqua;
 }
