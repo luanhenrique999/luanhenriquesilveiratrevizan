@@ -1,0 +1,41 @@
+header{
+    background-color: blue;
+    padding: 20px;
+}
+#logo{
+    border-radius: 10px;
+}
+
+.titulo-principal{
+    color:blue;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform:translate(-30%,-15%)
+    font-size: 20px;
+    font-family:'gagalin', sem serifa;
+}
+
+main{
+    margin: 40px 0; /*margem superior e inferior de 40 px,
+                     para os lados zero*/
+}
+
+form label, form p{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;/* 10 px para baixo*/
+} 
+
+.input-padrao{
+    display:block;
+    margin: 0 0 20px;/* 20px para baixo*/
+    padding: 10px 25px;/* 10px p/ cima e p/baixo
+                       e 25px p/ os lados*/
+    width: 50%; /* largura dos meus inputs*/
+}
+
+.checkbox{
+    margin: 20px 0;/* 10px para baixo*/
+
+}
