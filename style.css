@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+    fieldset{
+    margin-left: 460px;
+    margin-right: 40px;
+    margin-top: 200px;
+    height: auto;
+    width: 500px;
+    border-radius: 12px;
+    background-color:darkcyan;
+    border-color: black;
+}
+legend{
+    text-align: center;
+    text-shadow: -3px 2px black;
+    color:cyan;
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-left: 35%;
+    font-weight: 800;
+    background-color: aquamarine;
+    border-radius: 4px;
+    width: 30%;
+}
