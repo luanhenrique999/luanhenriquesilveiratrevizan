@@ -1,0 +1,16 @@
+h1{
+    background-color: darkgreen;
+    color: black;   
+}
+table{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    color: rgb(13, 255, 45);
+}
+body{
+    background-color: darkcyan;
+}
+tr{
+    color: black;
+}
